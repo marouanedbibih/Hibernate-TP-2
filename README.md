@@ -1,6 +1,3 @@
-Here’s a simple `README.md` file template for your Hibernate project:
-
-```md
 # Hibernate TP Project
 
 This project is a demonstration of basic Hibernate functionality, including CRUD operations (Create, Read, Update, Delete) with a MySQL database. It includes an implementation of data persistence for the `Salle` and `Machine` entities using Hibernate ORM.
